@@ -88,5 +88,5 @@
 - “太保”logo 由文心一言AI合成
 
 ## Star History
-[Star History Chart](https://star-history.com/#Mathsion2/Taibao&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Mathsion2/Taibao&type=Date)](https://star-history.com/#Mathsion2/Taibao&Date)
 
