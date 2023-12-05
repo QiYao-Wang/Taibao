@@ -89,4 +89,5 @@
 
 ## Star History
 
-<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=#Mathsion2/Taibao&Timeline" frameBorder="0"></iframe>
+[![Star History Chart](https://api.star-history.com/svg?repos=Mathsion2/Taibao&type=Timeline)](https://star-history.com/#Mathsion2/Taibao&Date&Timeline)
+
