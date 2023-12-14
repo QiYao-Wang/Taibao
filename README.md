@@ -1,7 +1,7 @@
 [ [English](./README_en.md) | **中文** \]
 
 <p align="center">
-         <a href="http:taibao-ip.help/">项目体验</a>
+         <a href="http:taibao-ip.help/">项目体验</a>&nbsp&nbsp | &nbsp&nbsp <a href="https://spap.dlut.edu.cn/info/1123/4095.htm">学院新闻</a>
 <br>
 <br>
 </p>
