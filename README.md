@@ -7,7 +7,7 @@
 </p>
 
 ```
-由于当前版本的太保仍具有其他用途，暂未开源，我们将在相关内容完善后进行开源。
+开源于HuggingFace: https://huggingface.co/QiYao-Wang/Taibao-7B
 ```
 
 # 太保（Taibao）：知识产权服务大模型
